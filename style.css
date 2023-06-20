@@ -1,0 +1,50 @@
+h1{
+    color: coral;
+}
+a{
+    text-align: center;
+    color: #fff;
+    font-size: 25px;
+    text-decoration: solid;
+}
+body{
+    background-color: #3f3f3f;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div{
+    text-align: center;
+}
+div.content{
+    background-color: coral;
+    text-align: left;
+    padding-top: 0.1px;
+    padding-bottom: 0.1px;
+}
+h2{
+    color: #ffffe6;
+}
+h4{
+    color: #ffffe6;
+}
+span{
+    color: chartreuse;
+}
+div.a{
+    padding: 0%;
+    font-weight: 0px;
+}
+button.download{
+    padding: 0%;
+}
+button{
+    color: black;
+}
+audio::-webkit-media-controls-panel {
+    background-color: coral;
+    color: #fff;
+    font-size: 16px;
+    padding: 10px;
+}
+h6{
+    color: #fff;
+} 

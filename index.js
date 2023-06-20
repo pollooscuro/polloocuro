@@ -1,0 +1,1 @@
+alert('Benvenuto nella pagina personale di pollo oscuro!')
